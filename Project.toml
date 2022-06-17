@@ -1,0 +1,13 @@
+name = "DistribOps"
+uuid = "83fecc9e-96b0-4a89-b2d3-403fa57d9c1e"
+authors = ["kreikrei <kreitonstrs@gmail.com> and contributors"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
