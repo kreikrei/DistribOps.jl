@@ -14,6 +14,7 @@ Nexus = "e9ec3f1b-eb74-4459-9c53-c196fe7664ef"
 Parameters = "d96e819e-fc66-5662-9728-84c9c7592b0a"
 
 [compat]
+JLD2 = "0.4"
 julia = "1"
 
 [extras]
